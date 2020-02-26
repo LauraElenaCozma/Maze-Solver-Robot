@@ -29,9 +29,11 @@ Maze solver robot that must find its way through a labyrinth. The algorithm moni
 <br>
 
 ## Photo of the entire project ##
+![](images/maze.jpeg)
 ![](images/front_car.jpeg)
 ![](images/right_car.jpeg)
 ![](images/left_car.jpeg)
+![](images/back.jpeg)
 
 <br>
 
@@ -43,8 +45,8 @@ Maze solver robot that must find its way through a labyrinth. The algorithm moni
 
 <br>
 
-**Demo video**
-[click here for the demo video](https://www.youtube.com/watch?v=VE46upkJfwo&feature=youtu.be&fbclid=IwAR31XxogYnkbhW-a1tCb6ppHgiQ_D87fkFTM6FwNoqcrs6dkfd9BACky9HQ)
+## Demo video ##
+[Click here for the demo video](https://youtu.be/VE46upkJfwo)
 
 <br>
 
@@ -76,4 +78,3 @@ When the car is moving forward, to ensure that is going straight, or if it is to
 ### Turning left / right ###
 
 When the car decides to make a 90° rotation, the corresponding led will blink. When the car makes a left-turn, then the green one blinks, otherwise, the blue one blinks.
-
